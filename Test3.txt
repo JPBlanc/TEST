@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 TEst3
 
 Modif
 
-=======
 Test3
->>>>>>> Branche1
